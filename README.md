@@ -1,6 +1,6 @@
 # PaintApp-iOS
 
-iOS(Storyboard) Paint App with color, thickness and "undo" and "clear" buttons.
+iOS(Storyboard) Paint App with color, thickness and "undo" and "clear" buttons. UI was written in code.
 
 ### Screenshots
 
